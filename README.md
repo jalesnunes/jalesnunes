@@ -32,12 +32,10 @@
 
 ### Projects
 <div align="center">
-  <a href="https://github.com/jalesnunes/my-web-app">
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="My Web App" width="200"/>
-  </a>
-  <a href="https://github.com/jalesnunes/portfolio">
-    <img src="https://media.giphy.com/media/3orieVW3rB6DqIYpPu/giphy.gif" alt="Portfolio" width="200"/>
-  </a>
+  💻 [Jot-A-Thought](https://github.com/jalesnunes/Jot-A-Thought) |  
+  🚀 [Asteroid](https://github.com/jalesnunes/asteroid) |  
+  💰 [Money](https://github.com/jalesnunes/money) |  
+  ✂️ [Barber](https://github.com/jalesnunes/barber)
 </div>
 
 ---
