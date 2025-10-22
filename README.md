@@ -23,7 +23,9 @@
   <a href="https://www.facebook.com/jalesnunes" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jalesjnunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/jalesnunes/jalesnunes/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/jalesnunes/jalesnunes/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/jalesnunes/jalesnunes/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
  
 </div>
 
