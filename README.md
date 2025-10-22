@@ -32,10 +32,10 @@
 
 ### Projects
 <div align="center">
-  💻 [Jot-A-Thought](https://github.com/jalesnunes/Jot-A-Thought) |  
-  🚀 [Asteroid](https://github.com/jalesnunes/asteroid) |  
-  💰 [Money](https://github.com/jalesnunes/money) |  
-  ✂️ [Barber](https://github.com/jalesnunes/barber)
+  <p>💻 [Jot-A-Thought](https://github.com/jalesnunes/Jot-A-Thought)</p>
+  <p>🚀 [Asteroid](https://github.com/jalesnunes/asteroid)</p>
+  <p>💰 [Money](https://github.com/jalesnunes/money)</p>
+  <p>✂️ [Barber](https://github.com/jalesnunes/barber)</p>
 </div>
 
 ---
